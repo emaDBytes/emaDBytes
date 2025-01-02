@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Emad Yazdankhah
 
-## 🚀 About Me
+## About Me
 Business professional turned Full-Stack Developer, bringing 18+ years of business experience into the tech world. Currently pursuing Business Information Technology at Haaga-Helia University of Applied Sciences in Finland.
 
 ### 💡 What Drives Me
