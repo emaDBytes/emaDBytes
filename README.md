@@ -1,59 +1,75 @@
-# Hi there 👋 I'm Emad Yazdankhah
+# Emad Yazdankhah
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emady)
+[![GPA](https://img.shields.io/badge/GPA-4.43%2F5.0-success?style=for-the-badge)](https://www.haaga-helia.fi/fi/amk-k/degree-programme-business-information-technology-bba?gad_source=1&gclid=CjwKCAiAzPy8BhBoEiwAbnM9O6M7dTogzlnTud4eDREtoa4dkogDAuarErMsfLggUMiMTcDQVg6PfxoCaCcQAvD_BwE)
 
-## About Me
-Business professional turned Full-Stack Developer, bringing 18+ years of business experience into the tech world. Currently pursuing Business Information Technology at Haaga-Helia University of Applied Sciences in Finland.
+## 💫 About Me
+Full-Stack Developer in training with 17+ years of business leadership experience. Currently pursuing Business Information Technology at Haaga-Helia UAS in Finland, maintaining a GPA of 4.43/5.0. I bring a unique blend of technical skills and business acumen to software development.
 
-### 💡 What Drives Me
-- Passionate about solving complex problems through code
-- Bridging business understanding with technical solutions
-- Continuous learner adapting to new technologies
-- Detail-oriented developer with a focus on clean code
+### 🎯 Professional Focus
+- Full-Stack Development with emphasis on Java and JavaScript ecosystems
+- Clean code and software testing practices
+- Business process optimization through technology
+- Cross-functional team collaboration
 
-## 🛠️ Technical Skills
-```java
-class Skills {
-    String[] languages = {"Java", "JavaScript", "HTML", "CSS"};
-    String[] frameworks = {"Spring Boot", "React"};
-    String[] databases = {"MySQL"};
-    String[] tools = {"Git", "Maven", "npm"};
-}
+## 🛠️ Technical Stack
+```javascript
+const technicalSkills = {
+    frontEnd: {
+        languages: ['JavaScript', 'HTML5', 'CSS3'],
+        frameworks: ['React'],
+        tools: ['npm', 'Webpack']
+    },
+    backEnd: {
+        languages: ['Java'],
+        frameworks: ['Spring Boot'],
+        tools: ['Maven']
+    },
+    database: ['MySQL'],
+    devOps: ['Git', 'Docker'],
+    currentlyLearning: [
+        'React Native',
+        'Python',
+        'Advanced Database Development',
+        'Software Testing'
+    ]
+};
 ```
 
-## 🌱 Currently Learning
-- Advanced Backend Development with Spring Boot
-- Database Development
-- Mobile Application Development
-- Software Testing
-
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
 ### CodeTrack
-- A web application helping BIT students track coding time
-- Tech Stack: Java, Spring Boot
+A comprehensive time-tracking solution for BIT students
+- **Tech Stack:** Java, Spring Boot, H2
+- **Features:** 
+  - Automated time tracking
+  - Progress visualization
+  - Course management
 - [View Project](https://github.com/emaDBytes/CodeTrack)
 
-## 📫 Let's Connect
-- LinkedIn: [in/emady](https://linkedin.com/in/emady)
-- Location: Finland
-- Languages: English, Finnish, Persian
+## 📊 Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaDBytes&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaDBytes&layout=compact&theme=dark)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emaDBytes&show_icons=true&theme=dark)
+## 🎓 Education
+- **Business Information Technology** - Haaga-Helia UAS (2023-Present)
+  - Major: Software Development
+  - GPA: 4.43/5.0
+
+## 🌐 Languages
+- English (Professional)
+- Finnish (Professional)
+- Persian (Native)
+
+## 💼 Open to Opportunities
+- Seeking internship/junior developer positions in Finland
+- Available for remote opportunities globally
+- Interested in: Full-Stack Development, Software Testing
+- Available from: June 2025
 
 ---
-💼 Open for internship and junior developer opportunities in Finland and remote positions globally!
+### 📫 Let's Connect
+- Email: emad.yazdankhah@gmail.com
+- Location: Helsinki Metropolitan Area, Finland
+- LinkedIn: [in/emady](https://linkedin.com/in/emady)
 
-<!--
-**emaDBytes/emaDBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=emaDBytes&color=brightgreen)
