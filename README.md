@@ -37,28 +37,28 @@ Final-year Business Information Technology student at Haaga-Helia University of 
 
 ## Featured Projects
 
-### 🏆 [CodeTrack](https://github.com/emaDBytes/CodeTrack) - BIT Student Coding Time Tracker
+### [CodeTrack](https://github.com/emaDBytes/CodeTrack) - BIT Student Coding Time Tracker
 **Java | Spring Boot | H2 Database | Bootstrap**
 - Comprehensive web application for tracking and analyzing coding sessions
 - User authentication with OAuth2 integration
 - Interactive dashboards with detailed analytics
 - Course management and progress visualization
 
-### 📱 [Personal Trainer App](https://github.com/emaDBytes/personaltrainer) 
+### [Personal Trainer App](https://github.com/emaDBytes/personaltrainer) 
 **React | Material-UI | AG Grid | Recharts**
 - Responsive customer and training session management system
 - Interactive calendar with FullCalendar integration
 - Data visualization with statistical charts
 - Export functionality for customer data
 
-### 🔍 [GitHub Repository Search](https://github.com/emaDBytes/github-repo-search)
+### [GitHub Repository Search](https://github.com/emaDBytes/github-repo-search)
 **React Native | Expo | Custom Hooks**
 - Clean architecture mobile app with GitHub API integration
 - Real-time repository search functionality
 - Custom hooks for state management
 - Environment-based configuration
 
-### 🎯 [Quizzer Platform](https://github.com/unicornteam2024/quizzer)
+### [Quizzer Platform](https://github.com/unicornteam2024/quizzer)
 **Java | Spring Boot | React | PostgreSQL**
 - Collaborative full-stack educational platform
 - Teacher dashboard for quiz management
@@ -83,14 +83,12 @@ Final-year Business Information Technology student at Haaga-Helia University of 
 
 **Bachelor of Business Administration (BBA)**  
 *Business Information Technology - Software Development*  
-**Haaga-Helia University of Applied Sciences** | *2023 - Present*  
-- GPA: 4.44/5.0 (212/210 credits completed)
+**Haaga-Helia University of Applied Sciences** | *2023 - 2025*  
 - Major: Software Development
 - Participant in Softala Project (10 ECTS) and International Project with HESSO UAS (5 ECTS)
 
 **Previous Studies**  
 **LAB University of Applied Sciences** | *2022 - 2023*  
-- GPA: 4.55/5.0 (100 credits transferred)
 
 ## Languages
 - **Persian** - Native
@@ -109,11 +107,10 @@ Final-year Business Information Technology student at Haaga-Helia University of 
 
 ## Currently
 
-- 🎓 Completing final semester of Business Information Technology degree
-- 📚 Self-studying advanced Spring Boot development
-- 🤝 Participating in collaborative software projects
-- 💡 Creating technical documentation with modern tools
-- 🔍 **Actively seeking entry-level software developer positions**
+- **Actively seeking entry-level software developer positions**
+- Self-studying advanced Spring Boot development
+- Participating in collaborative software projects
+- Creating technical documentation with modern tools
 
 ## Open to Opportunities
 
